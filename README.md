@@ -1,2 +1,0 @@
-# operacion
-Monitoreo de Proyectos
